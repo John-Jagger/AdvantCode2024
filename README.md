@@ -14,8 +14,8 @@ to document my progress and growth throughout the event.
 Thank you for taking the time to check out my work! While this is my first "Advent of Code," 
 I hope you enjoy exploring my journey and the solutions I’ve crafted.
 
-## Help
+## Help 🎁
 
 I would be lying if I said I did this all by myself, I did get some help on certain days 
-where I got stuck from the youtuber HyperNeutrino. She was quite helpful for some of the 
+where I got stuck from the youtuber [HyperNeutrino](https://www.youtube.com/@hyper-neutrino). She was quite helpful for some of the 
 days I got really confused. 
